@@ -1,6 +1,7 @@
 [
     {
-      "name": "Spaghetti Carbonara",
+      "name": "Spaghetti Carbonara", 
+      "img": "",
       "ingredients": [
         {"name": "spaghetti", "quantity": 200, "unit": "grams"},
         {"name": "bacon", "quantity": 150, "unit": "grams"},
@@ -24,6 +25,7 @@
     },
     {
         "name": "Classic Beef Burger",
+        "img": "",
         "ingredients": [
           {"name": "ground beef", "quantity": 200, "unit": "grams"},
           {"name": "hamburger buns", "quantity": 4, "unit": ""},
@@ -52,6 +54,7 @@
       },
       {
         "name": "Chicken Alfredo Pasta",
+        "img": "",
         "ingredients": [
           {"name": "chicken breast", "quantity": 300, "unit": "grams"},
           {"name": "fettuccine pasta", "quantity": 250, "unit": "grams"},
@@ -81,6 +84,7 @@
         "description": "Creamy Alfredo pasta with tender chicken slices."
       },
     {"name": "Caprese Salad",
+    "img": "",
     "ingredients": [
       {"name": "tomatoes", "quantity": 4, "unit": ""},
       {"name": "fresh mozzarella", "quantity": 200, "unit": "grams"},
@@ -105,6 +109,7 @@
   },
   {
     "name": "Vegetable Stir Fry",
+    "img": "",
     "ingredients": [
       {"name": "broccoli florets", "quantity": 2, "unit": "cups"},
       {"name": "carrots", "quantity": 2, "unit": ""},
@@ -139,6 +144,7 @@
   },
   {
     "name": "Chocolate Chip Cookies",
+    "img": "",
     "ingredients": [
       {"name": "all-purpose flour", "quantity": 2, "unit": "cups"},
       {"name": "butter", "quantity": 1, "unit": "cup"},
