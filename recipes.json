@@ -1,0 +1,170 @@
+[
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients": [
+        {"name": "spaghetti", "quantity": 200, "unit": "grams"},
+        {"name": "bacon", "quantity": 150, "unit": "grams"},
+        {"name": "eggs", "quantity": 3, "unit": ""},
+        {"name": "Parmesan cheese", "quantity": 50, "unit": "grams"},
+        {"name": "black pepper", "quantity": 1, "unit": "teaspoon"},
+        {"name": "salt", "quantity": 1, "unit": "teaspoon"}
+      ],
+      "popular": true,
+      "instructions": [
+        "Cook spaghetti according to package instructions.",
+        "Meanwhile, cook bacon until crispy, then chop into pieces.",
+        "In a bowl, whisk together eggs, Parmesan cheese, salt, and pepper.",
+        "Once spaghetti is cooked, drain it and add it to the pan with bacon, then quickly stir in the egg mixture.",
+        "Continue to cook and stir until the eggs thicken and coat the spaghetti, but be careful not to scramble them.",
+        "Serve immediately with extra Parmesan cheese and black pepper."
+      ],
+      "category": ["Italian", "Pasta"],
+      "user": 4,
+      "desciption": "Discover how to make traditional spaghetti carbonara. This classic Italian pasta dish combines a silky cheese sauce with crisp pancetta and black pepper."
+    },
+    {
+        "name": "Classic Beef Burger",
+        "ingredients": [
+          {"name": "ground beef", "quantity": 200, "unit": "grams"},
+          {"name": "hamburger buns", "quantity": 4, "unit": ""},
+          {"name": "lettuce", "quantity": 2, "unit": "leaves"},
+          {"name": "tomato", "quantity": 1, "unit": ""},
+          {"name": "onion", "quantity": 1, "unit": ""},
+          {"name": "cheddar cheese", "quantity": 50, "unit": "grams"},
+          {"name": "salt", "quantity": 1, "unit": "teaspoon"},
+          {"name": "black pepper", "quantity": 1, "unit": "teaspoon"},
+          {"name": "ketchup", "quantity": 2, "unit": "tablespoons"},
+          {"name": "mustard", "quantity": 1, "unit": "tablespoon"}
+        ],
+        "popular": true,
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "Divide ground beef into 4 equal portions and shape into patties.",
+          "Season patties with salt and pepper.",
+          "Grill patties for 4-5 minutes on each side, or until desired doneness.",
+          "Toast hamburger buns on the grill for 1-2 minutes.",
+          "Assemble burgers with lettuce, tomato, onion, cheddar cheese, ketchup, and mustard.",
+          "Serve immediately."
+        ],
+        "category": ["American", "Burgers"],
+        "user": 4,
+        "description": "A classic beef burger with all the fixings."
+      },
+      {
+        "name": "Chicken Alfredo Pasta",
+        "ingredients": [
+          {"name": "chicken breast", "quantity": 300, "unit": "grams"},
+          {"name": "fettuccine pasta", "quantity": 250, "unit": "grams"},
+          {"name": "heavy cream", "quantity": 1, "unit": "cup"},
+          {"name": "butter", "quantity": 2, "unit": "tablespoons"},
+          {"name": "Parmesan cheese", "quantity": 50, "unit": "grams"},
+          {"name": "garlic", "quantity": 2, "unit": "cloves"},
+          {"name": "salt", "quantity": 1, "unit": "teaspoon"},
+          {"name": "black pepper", "quantity": 1, "unit": "teaspoon"},
+          {"name": "parsley", "quantity": 2, "unit": "tablespoons"}
+        ],
+        "popular": true,
+        "instructions": [
+          "Cook fettuccine pasta according to package instructions.",
+          "Season chicken breast with salt and pepper.",
+          "In a skillet, melt butter over medium heat, then add minced garlic and cook until fragrant.",
+          "Add chicken breast to the skillet and cook until golden brown and cooked through.",
+          "Remove chicken from skillet and set aside.",
+          "In the same skillet, add heavy cream and Parmesan cheese, stirring until smooth and creamy.",
+          "Add cooked pasta to the skillet and toss to coat in the sauce.",
+          "Slice chicken breast and serve over the Alfredo pasta.",
+          "Garnish with chopped parsley and additional Parmesan cheese if desired.",
+          "Serve immediately."
+        ],
+        "category": ["Italian", "Pasta"],
+        "user": 5,
+        "description": "Creamy Alfredo pasta with tender chicken slices."
+      },
+    {"name": "Caprese Salad",
+    "ingredients": [
+      {"name": "tomatoes", "quantity": 4, "unit": ""},
+      {"name": "fresh mozzarella", "quantity": 200, "unit": "grams"},
+      {"name": "fresh basil leaves", "quantity": 0.5, "unit": "cup"},
+      {"name": "balsamic vinegar", "quantity": 2, "unit": "tablespoons"},
+      {"name": "extra virgin olive oil", "quantity": 2, "unit": "tablespoons"},
+      {"name": "salt", "quantity": 0.5, "unit": "teaspoon"},
+      {"name": "black pepper", "quantity": 0.25, "unit": "teaspoon"}
+    ],
+    "popular": true,
+    "instructions": [
+      "Slice the tomatoes and fresh mozzarella into 1/4-inch thick slices.",
+      "Arrange the tomato and mozzarella slices on a serving platter, alternating and overlapping them.",
+      "Tuck fresh basil leaves in between the tomato and mozzarella slices.",
+      "In a small bowl, whisk together balsamic vinegar, olive oil, salt, and pepper.",
+      "Drizzle the balsamic vinaigrette over the salad just before serving.",
+      "Serve immediately as a refreshing appetizer or side dish."
+    ],
+    "category": ["Italian", "Salad"],
+    "user": 4,
+    "description": "A classic Italian salad made with ripe tomatoes, fresh mozzarella, and fragrant basil leaves."
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "ingredients": [
+      {"name": "broccoli florets", "quantity": 2, "unit": "cups"},
+      {"name": "carrots", "quantity": 2, "unit": ""},
+      {"name": "bell pepper", "quantity": 1, "unit": ""},
+      {"name": "snow peas", "quantity": 1, "unit": "cup"},
+      {"name": "onion", "quantity": 1, "unit": ""},
+      {"name": "garlic", "quantity": 2, "unit": "cloves"},
+      {"name": "soy sauce", "quantity": 3, "unit": "tablespoons"},
+      {"name": "sesame oil", "quantity": 1, "unit": "tablespoon"},
+      {"name": "vegetable oil", "quantity": 2, "unit": "tablespoons"},
+      {"name": "ginger", "quantity": 1, "unit": "teaspoon"},
+      {"name": "rice vinegar", "quantity": 1, "unit": "tablespoon"},
+      {"name": "cornstarch", "quantity": 1, "unit": "tablespoon"},
+      {"name": "water", "quantity": 0.25, "unit": "cup"},
+      {"name": "salt", "quantity": 0.5, "unit": "teaspoon"},
+      {"name": "black pepper", "quantity": 0.25, "unit": "teaspoon"}
+    ],
+    "popular": true,
+    "instructions": [
+      "Slice carrots, bell pepper, and onion thinly. Mince garlic and ginger.",
+      "In a small bowl, mix soy sauce, sesame oil, rice vinegar, cornstarch, water, salt, and black pepper to make the sauce.",
+      "Heat vegetable oil in a large skillet or wok over high heat.",
+      "Add minced garlic and ginger to the skillet and stir-fry for a few seconds until fragrant.",
+      "Add sliced vegetables to the skillet and stir-fry for 3-4 minutes until they are tender-crisp.",
+      "Pour the sauce over the vegetables and stir well to coat. Cook for another 1-2 minutes until the sauce thickens.",
+      "Remove from heat and serve hot over steamed rice or noodles."
+    ],
+    "category": ["Asian", "Stir Fry"],
+    "user": 4,
+    "favorite": [2, 5],
+    "description": "A colorful and flavorful vegetable stir fry with a savory soy-based sauce, perfect for a quick and healthy meal."
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": [
+      {"name": "all-purpose flour", "quantity": 2, "unit": "cups"},
+      {"name": "butter", "quantity": 1, "unit": "cup"},
+      {"name": "granulated sugar", "quantity": 3, "unit": "cup"},
+      {"name": "brown sugar", "quantity": 0.3, "unit": "cup"},
+      {"name": "eggs", "quantity": 2, "unit": ""},
+      {"name": "vanilla extract", "quantity": 1, "unit": "teaspoon"},
+      {"name": "baking soda", "quantity": 0.5, "unit": "teaspoon"},
+      {"name": "salt", "quantity": 0.5, "unit": "teaspoon"},
+      {"name": "chocolate chips", "quantity": 2, "unit": "cups"}
+    ],
+    "popular": true,
+    "instructions": [
+      "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
+      "In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.",
+      "Beat in eggs, one at a time, and vanilla extract until well combined.",
+      "In a separate bowl, whisk together flour, baking soda, and salt.",
+      "Gradually add dry ingredients to the wet ingredients and mix until just combined.",
+      "Fold in chocolate chips until evenly distributed throughout the dough.",
+      "Drop tablespoonfuls of dough onto the prepared baking sheets, spacing them 2 inches apart.",
+      "Bake in the preheated oven for 10-12 minutes or until edges are golden brown.",
+      "Remove from the oven and let the cookies cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely."
+    ],
+    "category": ["Dessert", "Cookies"],
+    "user": 5,
+    "favorite": [1, 3],
+    "description": "Soft and chewy chocolate chip cookies loaded with gooey chocolate chips, perfect for satisfying your sweet tooth."
+  }
+  ]
